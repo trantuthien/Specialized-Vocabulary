@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Từ Chuyên Ngành</string>
+    <string name="app_name">Specialized Vocalbulary</string>
     <string name="action_settings">Setting</string>
     <string name="Search">Search</string>
     <string name="search_hint">Keyword</string>
@@ -9,7 +9,7 @@
     <string name="title_activity_add">Add Dictionary</string>
     <string name="chon_file">Choose File</string>
     <string name="thieuTuDien">You have no dictionary</string>
-    <string name="addGuide">Bạn cần tạo file excel có cấu trúc thuần chỉ chứa từ vựng. Mỗi hàng có 3 cột theo thứ tự: Anh - Việt - Việt không dấu</string>
+    <string name="addGuide">You need to create excel files only containt data. Each row has 3 columns follow the order: Other language - Vietnamese - Vietname no tones</string>
     <string name="action_filter">Choose Dictionary</string>
     <string name="done_chosen">Choose</string>
     <string name="str_all">All</string>
@@ -22,4 +22,5 @@
     <string name="process">Processing</string>
     <string name="translateviet">Translateviet.com</string>
     <string name="clipboard_success">Copied to Clipboard</string>
+    <string name="clickOpenWeb">Click Here To Get Free Dict</string>
 </resources>

@@ -25,4 +25,10 @@
         android:onClick="chonfile"
         android:text="@string/chon_file" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:onClick="openWeb"
+        android:text="@string/clickOpenWeb"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>

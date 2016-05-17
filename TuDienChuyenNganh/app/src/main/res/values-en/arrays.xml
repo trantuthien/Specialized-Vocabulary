@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="type_searching">
-        <item>Tiếng Việt không dấu</item>
-        <item>Tiếng Anh</item>
-        <item>Tiếng Việt</item>
-        <item>Tất Cả</item>
+        <item>Vietnamese without tone</item>
+        <item>Other Language</item>
+        <item>Vietnamese</item>
+        <item>All</item>
     </string-array>
 </resources>
